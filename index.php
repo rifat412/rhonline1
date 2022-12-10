@@ -99,7 +99,7 @@
                                         <label for="District">District</label>
                                         <select class="form-control" id="District" name="district_name">
                                         <option>Dhaka</option>
-                                            <option>Gazipur 2</option>
+                                            <option>Gazipur</option>
                                             <option>Narsingdi</option>
                                             <option>Manikganj</option>
                                             <option>Munshiganj</option>
