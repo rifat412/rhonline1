@@ -13,7 +13,7 @@
                         <li> <a href="Javascript:void(0) "><i class="fa fa-phone " aria-hidden="true "></i> Call +880 1718449463
                            </a>
                         </li>
-                        <li> <a href="#"> <i class="fa fa-envelope " aria-hidden="true "></i> rifat241221@gmail.com
+                        <li> <a href="https://mail.google.com/mail/u/0/?fs=1&to=rifat241221@gmail.com&tf=cm" target="blank"> <i class="fa fa-envelope " aria-hidden="true "></i> rifat241221@gmail.com
                            </a>
                         </li>
                      </ul>
